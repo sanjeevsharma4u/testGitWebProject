@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="FIMASTER" match-name="INTERFACE_NODE"/>
+  <table-filter match-schema="FIMASTER" match-name="INTERFACE_NODE_CLIENT"/>
+  <table-filter match-schema="FIMASTER" match-name="PORT_PARAM_MAPPING"/>
+  <table-filter match-schema="FIMASTER" match-name="PORT_TYPE"/>
+</hibernate-reverse-engineering>
